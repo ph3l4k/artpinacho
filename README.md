@@ -7,6 +7,7 @@ https://dev.to/qbentil/complete-roadmap-to-become-a-pro-in-mern-stack-30cf
 
 Reading on the web these are the required basis knowledge:
 1. HTML: https://www.w3schools.com/html/
+ - HTML Colors
 2. CSS: https://www.w3schools.com/css/
 3. Javascript: https://www.w3schools.com/js/
 
