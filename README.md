@@ -3,9 +3,9 @@ My objetive is learn MNRN to know how create a full web app.
 And try to do this creating the web for the art of my father.
 
 Reading on the web the required basis knowledge are:
- ### 1. HTML
- ### 1. CSS
- ### 1. Javascript
+# 1. HTML
+# 2. CSS
+# 3. Javascript
 
 After this the order to learn is:
  - Node.js
