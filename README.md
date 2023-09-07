@@ -1,1 +1,4 @@
-This is the repo to record all the steps that i do learning the MNRN Stack between i develop the web of my father and artist Pedro Pinacho
+My objetive is learn MNRN to know how create a full web app.
+
+And try to do this creating the web for the art of my father.
+
